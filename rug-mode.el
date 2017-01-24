@@ -9,7 +9,7 @@
 ;; Version: 0.1.0
 ;; Keywords: languages
 
-;; This file is distributed under the terms of the Apache License (version 2.0).
+;; This file is distributed under the terms of the GNU GPLv3.
 
 ;; Add this to your .emacs:
 
