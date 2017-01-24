@@ -1,4 +1,6 @@
-# Rug emacs major mode
+# Atomist 'rug-emacs-mode'
+
+[![Slack Status](https://join.atomist.com/badge.svg)](https://join.atomist.com/)
 
 Emacs major mode for the [Rug language][rug].
 
